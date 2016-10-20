@@ -1,0 +1,64 @@
+.sidebar-item {
+	font-family: 'Bungee Inline', cursive !important;
+	font-size: 20px;
+	text-align: center;
+	color: #ecf0f1 !important;
+
+}
+.sidebar-image {
+	margin-top: 12px;
+	width: 150px !important;
+}
+.sidebar-container {
+	background: #0287D0 !important;
+}
+
+.head-sidebar {
+	font-family: 'Bungee Inline', cursive !important;
+	font-size: 24px;
+	text-align: center;
+	color: #ecf0f1 !important;
+}
+.second-head-sidebar {
+	font-family: 'Bungee Inline', cursive !important;
+	font-size: 17px;
+	text-align: center;
+	line-height: 0 !important;
+	color: #ecf0f1 !important;
+}
+.text-center {
+	text-align: center;
+}
+
+.social-sidebar {
+	text-align: center;
+}
+
+.social-sidebar a i {
+	margin: 10px;
+ 
+}
+
+.social-sidebar a:hover {
+	cursor: pointer;
+}
+
+.font-20px {
+	font-size: 20px !important;
+	font-family: 'Bungee Inline', cursive !important;
+}
+
+.main-color {
+	color: #0287D0 !important;
+}
+
+h2.content-side {
+	text-align: justify;
+	color: #373737;
+	line-height: 1.3 !important;
+} 
+
+
+.label-link {
+	margin-left: 30px !important;
+}
